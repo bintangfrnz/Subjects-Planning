@@ -22,7 +22,6 @@ def SwitchToRoman(num):
     return semester.get(num, "Only handle 8 semesters")
 
 def ShowResult(results):
-    print("--- Result ---")
     for i in range(len(results)):
         if i > 7:
             break
