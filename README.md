@@ -33,11 +33,13 @@ This project is a simple program that can
 plan courses based on prerequisite courses using the <b>Decrease and Conquer algorithm</b>.
 This sorting process is implemented using the <b>Topological Sorting approach</b>.
 
-The following is a .txt file format that contains a list of courses>
+The following is a .txt file format that contains a list of courses:
 
 <p align="center">
   <img src="https://github.com/bintangfrnz/Subjects-Planning/blob/main/img/format.PNG" alt="format">
 </p>
+
+<hr>
 
 Here are the examples:
 
