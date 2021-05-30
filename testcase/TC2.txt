@@ -1,6 +1,6 @@
-Kriptografi, Matdis.
-Kalkulus.
-TBFO, Matdis.
-Fisika.
-Stima, Matdis, Kalkulus.
-Matdis, Kalkulus.
+Cryptography, Discrete Math.
+Calculus.
+TBFO, Discrete Math.
+Physics.
+STIMA, Discrete Math, Calculus.
+Discrete Math, Calculus.
